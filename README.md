@@ -1,0 +1,2 @@
+Cloudflare Feedback Insights Worker: 
+This project implements a simple Cloudflare Workers workflow to ingest feedback summaries, generate structured insights using Workers AI, and retrieve the latest results through API endpoints. Feedback is submitted via an ingestion endpoint, processed by an AI-powered insights endpoint, and the most recent insights are exposed as structured JSON for easy consumption.
